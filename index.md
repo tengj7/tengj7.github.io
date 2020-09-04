@@ -5,9 +5,9 @@
 ## Personal Information
 Surname(s) / First name(s): Jiaxuan Teng
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [tengj7@mcmaster.ca](mailto:youremail@domain.com)
 
-Date of birth: Write your date of birth here
+Date of birth: 12/28/1999
 
 ### About Me
 
